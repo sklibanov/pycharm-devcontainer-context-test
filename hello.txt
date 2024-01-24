@@ -1,0 +1,2 @@
+Hey, this works after all!
+It looks like IDEA-343335 is fixed for real.
